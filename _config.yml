@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Joshua"
-  avatar           : "images/profile.jpg"
+  avatar           : "profile.jpg"
   bio              : "Just an engineer trying to figure stuff out"
   location         : "Pittsburgh, PA"
   employer         :
